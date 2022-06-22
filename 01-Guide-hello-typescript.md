@@ -120,42 +120,24 @@ TypeScript 在实现新特性的同时，时刻保持对 ES 标准的对齐。�
 <div class="vt-box-container next-steps">
   <a class="vt-box" href="/notes/Typescript-full-interpretation/01-Guide-hello-typescript.html">
     <p class="next-steps-link">1. 入门准备</p>
-    <p class="next-steps-caption">讲解学习 TypeScript 和使用 TypeScript 进行开发的一些方法和技巧，是授你以鱼之前的授你以渔，
-虽然后面章节会学习 TypeScript 的所有语法，但是掌握自学TypeScript的方法技巧，可以帮助你更好更快地学习TypeScript，也方便你遇到问题时能够快速找到解决方案。</p>
   </a>
   <a class="vt-box" href="/notes/Typescript-full-interpretation/04-types-you-have-seen-in-the-eight-JS.html">
     <p class="next-steps-link">2. 基础部分</p>
-    <p class="next-steps-caption">这一章都是一些较为基础的知识，只要你有JavaScript的基础就能上手，学习起来不会有太大压力；
-学习完本章后，你就可以自己使用 TypeScript 写一些基本的日常开发中使用的逻辑了。</p>
   </a>
   <a class="vt-box" href="/notes/Typescript-full-interpretation/14-type-inference,-see-how-TS-understands-you.html">
     <p class="next-steps-link">3. 进阶部分</p>
-    <p class="next-steps-caption">这一章你要做好心理准备了。作为进阶知识，不仅内容多一些，而且有些知识较为抽象，不好理解，
-需要你紧跟着多练习多思考。这一章的知识有一些在平常的业务开发中很少用到，但是你也不可以掉以轻心，以免以后需要用到了，都不知道还有这高级内容。</p>
   </a>
 </div>
 
 <div class="vt-box-container next-steps">
-  <a class="vt-box" href="/tutorial/">
+  <a class="vt-box" href="/notes/Typescript-full-interpretation/26-Encapsulating-code-with-modules">
     <p class="next-steps-link">4. 知识整合</p>
-    <p class="next-steps-caption">这一章是对前面学习的基础和进阶部分的知识的整合。学习这一章，需要前面章节的知识作为铺点，
-所以一定要把前面章节的知识掌握好哦。</p>
   </a>
-  <a class="vt-box" href="/guide/quick-start.html">
+  <a class="vt-box" href="/notes/Typescript-full-interpretation/31-Look-at-the-tsconfig-json-configuration-one-by-one">
     <p class="next-steps-link">5. 项目配置及书写声明文件</p>
-    <p class="next-steps-caption">这一章会详细讲解项目的配置项，也就是对 tsconfig.json 里的配置逐条讲解它的作用。之所以放到后面讲，是因为我们前面学习不需要用到这么多配置，但是学习所有配置，可以帮助你在开发自己项目时满足自己的开发需求。书写声明文件需要用到前面的语法知识，学会书写声明文件，我们就可以在使用了一些冷门的没有声明文件的JS库时，自行为它们书写声明文件，以便我们开发使用。</p>
   </a>
-  <a class="vt-box" href="/examples/">
-    <p class="next-steps-link">6. 项目实战</p>
-    <p class="next-steps-caption">这一章是实战部分，通过使用 TypeScript+Vue 开发一个简单后台。我会带着你从零创建一个项目，
-并实现目录中列出的功能，帮助你将学到的知识在实际开发中进行运用。即是对前面知识的复习，也是对理论知识到实践的转化，做完这个项目，相信你会对TypeScript项目开发有一个新的认识，再去独立开发项目，会轻松很多。</p>
-  </a>
-</div>
-<div class="vt-box-container next-steps">
-  <a class="vt-box" href="/tutorial/">
-    <p class="next-steps-link">7. 写在最后</p>
-    <p class="next-steps-caption">这一章是一个总结。相信学到这一章的时候，你已经对 TypeScript 有了整体认知了。我将会在本章
-分享一些我的开发经验，帮助你在项目开发中少走弯路。</p>
+  <a class="vt-box" href="/notes/Typescript-full-interpretation/34-Conclusion">
+    <p class="next-steps-link">6. 写在最后</p>
   </a>
 </div>
 

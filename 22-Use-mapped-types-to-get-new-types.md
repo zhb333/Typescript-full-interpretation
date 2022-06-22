@@ -183,7 +183,7 @@ info2.name = '' // right, can edit
 
 这个例子我们定义了去掉修饰符的映射类型 RemoveModifier，Readonly`<Partial<Info>>`则是返回一个既属性可选又只读的接口类型，所以 InfoType 类型则表示属性必含而且非只读。
 
-TS 内置了一个映射类型 Required<T>，使用它可以去掉 T 所有属性的?修饰符。
+TS 内置了一个映射类型 `Required<T>`，使用它可以去掉 T 所有属性的?修饰符。
 
 ## 4 keyof 和映射类型在 2.9 的升级
 
