@@ -115,7 +115,7 @@ TypeScript 在实现新特性的同时，时刻保持对 ES 标准的对齐。�
 
 ## 知识结构
 
-本小册共 7 大章节，7 个章节的内容主要为：
+本小册共 6 大章节，6 个章节的内容主要为：
 
 <div class="vt-box-container next-steps">
   <a class="vt-box" href="/notes/Typescript-full-interpretation/01-Guide-hello-typescript.html">
